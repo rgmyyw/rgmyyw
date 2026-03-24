@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+rgmyyw;Flutter+Developer+%F0%9F%93%B1;Building+Beautiful+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+rgmyyw;Flutter+%26+iOS+Developer+%F0%9F%93%B1;Building+Beautiful+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,17 +13,25 @@
 ```dart
 class Developer {
   String name = 'rgmyyw';
-  String focus = 'Flutter Development';
+  String focus = 'Flutter & iOS Development';
   Location location = 'China';
+
+  List<String> platforms = [
+    'iOS (Swift/SwiftUI)',
+    'Android (Flutter)',
+    'Cross-platform (Flutter)'
+  ];
 
   List<String> currentlyDoing = [
     'Building awesome Flutter apps',
+    'Developing native iOS features',
     'Exploring Clean Architecture',
     'Optimizing app performance'
   ];
 
   List<String> alwaysLearning = [
     'Flutter/Dart',
+    'Swift/SwiftUI',
     'Backend Development',
     'Mobile Architecture'
   ];
@@ -36,17 +44,34 @@ class Developer {
 
 ### 📱 Core Expertise
 
-| Primary | Secondary |
-|---------|-----------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| Primary | Mobile |
+|---------|--------|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
 
-### 💻 Languages & Tools
+### 💻 Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Objective--C-0B5A9D?style=for-the-badge&logo=apple&logoColor=white" alt="ObjC">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+### 📱 Mobile Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/SwiftUI-02569B?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit">
+</p>
+
+### ⚙️ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/CocoaPods-EE3344?style=for-the-badge&logo=cocoapods&logoColor=white" alt="CocoaPods">
 </p>
 
 ### 🏗️ Architecture & Practices
@@ -90,12 +115,11 @@ Clean Architecture │ DDD │ TDD/BDD │ CI/CD │ Performance Optimization
 
 <div align="center">
 
-| 🎯 | 📐 | ⚙️ |
-|----|----|----|
-| **Performance** | **Architecture** | **Engineering** |
-| Flutter 性能优化 | Clean Architecture | 工程化 & 自动化 |
-| 渲染优化 | DDD 实践 | CI/CD Pipeline |
-| 内存管理 | 模块化设计 | 代码质量工具 |
+| 📱 Flutter | 🍎 iOS | 🏗️ Architecture | ⚙️ Engineering |
+|-----------|-------|----------------|---------------|
+| 性能优化 | SwiftUI | Clean Architecture | 工程化 & 自动化 |
+| 渲染优化 | UIKit | DDD 实践 | CI/CD Pipeline |
+| 内存管理 | 混合开发 | 模块化设计 | 代码质量工具 |
 
 </div>
 
